@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-routing"
+  "defaultProject": "ng-routing",
+  "cli": {
+    "analytics": "4d803243-3a01-4d02-abec-e18f965b9b13"
+  }
 }
